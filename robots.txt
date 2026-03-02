@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://3dprintwax.com/sitemap.xml
