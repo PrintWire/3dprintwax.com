@@ -1,0 +1,183 @@
+baseURL = "https://3dprintwax.com/"
+languageCode = "en-us"
+title = "3D Print Wax"
+theme = "printwire"
+
+[params]
+tagline       = "High-resolution wax pattern 3D printing for investment casting — dental, jewellery, aerospace, and precision part production."
+description   = "3D Print Wax covers additive manufacturing of wax patterns for investment casting — from 100% wax SLA printing for jewellery to high-density castable wax patterns for aerospace turbine components."
+keywords      = "wax pattern 3D printing, investment casting wax, castable resin 3D print, lost wax 3D printing, dental wax printing, jewellery casting wax"
+logoEmoji     = "🕯️"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#ca8a04"
+colorPrimaryDark  = "#a16207"
+colorPrimaryLight = "#eab308"
+colorBgDark       = "#080600"
+colorBgSection    = "#0c0900"
+colorBgCard       = "#120e00"
+colorBgCardHover  = "#1a1300"
+
+fontPrimary   = "Josefin+Sans"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=1920&q=80"]
+
+heroEyebrow  = "Investment Casting Patterns"
+heroTitle    = "3D Print <em>Wax</em>"
+heroSubtitle = "High-resolution wax pattern 3D printing for investment casting — dental, jewellery, aerospace, and precision part production."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=1920&q=80"
+
+overviewTitle   = "Precision Wax Patterns by AM"
+overviewText    = "100% wax SLA patterns at 25µm resolution — eliminating manual wax injection tooling for one-off and short-run investment casting in precious metals, titanium, and superalloys."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "3D Print Wax Services"
+servicesSubtitle = "High-resolution wax pattern 3D printing for investment casting — dental, jewellery, aerospace, and precision part production."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "High-resolution wax pattern 3D printing for investment casting — dental, jewellery, aerospace, and precision part production."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 25
+suffix = "µm"
+label  = "Layer Resolution"
+
+[[params.stats]]
+count  = 100
+suffix = "%"
+label  = "Burnout Rate (Wax SLA)"
+
+[[params.stats]]
+count  = 48
+suffix = "hr"
+label  = "Pattern Lead Time"
+
+[[params.stats]]
+count  = 90
+suffix = "%"
+label  = "Tooling Cost Reduction"
+
+
+[[params.applications]]
+title       = "Jewellery Casting"
+description = "Gold, silver, and platinum investment casting from wax SLA patterns — rings, pendants, and fine jewellery."
+image       = "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=1920&q=80"
+
+[[params.applications]]
+title       = "Dental Applications"
+description = "Castable wax patterns for crowns, bridges, and partial denture frameworks."
+image       = "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=1920&q=80"
+
+[[params.applications]]
+title       = "Aerospace Turbine Parts"
+description = "Wax patterns for investment cast turbine blades, vanes, and complex aerospace components."
+image       = "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=1920&q=80"
+
+[[params.applications]]
+title       = "Medical Implants"
+description = "Titanium and cobalt chrome implants cast from high-resolution wax SLA patterns."
+image       = "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🕯️"
+title       = "Wax SLA Printing"
+description = "100% wax photopolymer printing on Solidscape and wax-specific SLA platforms — 25µm layer, 0.05mm feature resolution."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Castable Resin Patterns"
+description = "Photocurable castable resins (Formlabs Castable Wax) for desktop SLA — compatible with standard investment casting cycles."
+
+[[params.servicesPreview]]
+icon        = "⚗️"
+title       = "Investment Casting Support"
+description = "Full investment casting support — flask, burnout cycle recommendations, and pattern post-processing guidance."
+
+[[params.servicesPreview]]
+icon        = "💎"
+title       = "Jewellery AM Prototyping"
+description = "Rapid jewellery prototyping service — wax master pattern in 24 hours for customer approval before casting."
+
+
+[[params.services]]
+name        = "Wax SLA Printing"
+description = "100% wax photopolymer printing on Solidscape and wax-specific SLA platforms — 25µm layer, 0.05mm feature resolution."
+icon        = "🕯️"
+image       = "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=800&q=80"
+
+[[params.services]]
+name        = "Castable Resin Patterns"
+description = "Photocurable castable resins (Formlabs Castable Wax) for desktop SLA — compatible with standard investment casting cycles."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=800&q=80"
+
+[[params.services]]
+name        = "Investment Casting Support"
+description = "Full investment casting support — flask, burnout cycle recommendations, and pattern post-processing guidance."
+icon        = "⚗️"
+image       = "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=800&q=80"
+
+[[params.services]]
+name        = "Jewellery AM Prototyping"
+description = "Rapid jewellery prototyping service — wax master pattern in 24 hours for customer approval before casting."
+icon        = "💎"
+image       = "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintwax.com"
+url         = "https://3dprintwax.com"
+description = "Wax & investment casting AM"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[params.clusterLinks]]
+name        = "3dprintjewelry.com"
+url         = "https://3dprintjewelry.com"
+description = "Jewelry 3D printing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
