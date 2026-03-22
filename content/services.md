@@ -1,0 +1,20 @@
+---
+title: "3D Print Wax Services"
+type: "page"
+layout: "services"
+description: "Professional wax pattern 3D printing for investment casting services — High-resolution wax pattern 3D printing for investment casting — dental, jewellery, aerospace, and precision part production."
+heroImage: "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=1920&q=80"
+process:
+  - step: "01"
+    title: "Consultation"
+    text: "We review your requirements, material specs, tolerances, and production volume to recommend the optimal process."
+  - step: "02"
+    title: "Design Review"
+    text: "DfAM analysis ensures your design is optimised for the chosen process — wall thickness, support strategy, and feature resolution."
+  - step: "03"
+    title: "Production"
+    text: "Parts produced to specification with full process monitoring, quality control, and material traceability."
+  - step: "04"
+    title: "Delivery"
+    text: "Inspection, finishing, and delivery with full documentation and material certification where required."
+---
