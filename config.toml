@@ -10,6 +10,7 @@ title = "3D Print Wax"
       unsafe = true
 
 [params]
+ogImage       = "/images/01_hero_polymer.png"
 siteName      = "3D Print Wax"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">WAX</span>'
 tagline       = "High-resolution wax pattern 3D printing for investment casting — dental, jewellery, aerospace, and precision part production."
